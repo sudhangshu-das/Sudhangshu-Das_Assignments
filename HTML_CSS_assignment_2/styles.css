@@ -1,0 +1,164 @@
+
+/* Q1. Styling for the first CSS Assignment */
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.Q1{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+
+.div1{
+    background-color: #6495ED;
+    padding-bottom: 10px;
+    margin: 0px;
+}
+
+.div2{
+    background-color: #B0C4DE;
+    padding-bottom: 8px;
+    margin: 0px;
+}
+
+.div3{
+    background-color: #E0FFFF;
+    padding-bottom: 8px;
+} 
+
+
+
+/* Q2. Styling for the second CSS Assignment */
+
+.Q2{
+    border: 2px solid black;
+}
+
+.Q2{
+    background-color: #E0FFFF;
+}
+
+.Q2 h2{
+    text-decoration: line-through;
+}
+
+h3{
+    text-decoration: underline;
+}
+
+
+
+/* Q3. Styling for the third CSS assignment */
+.Q3{
+    border: 2px solid black;
+    background-color: #E0FFFF;
+}
+
+#first-line{
+    text-transform: uppercase;
+}
+
+
+/* Q4. Styling for the fourth CSS assignment */
+.Q4{
+    background-color: #E0FFFF;
+    border: 2px solid black;
+}
+
+.Q4 a{
+    color: red;
+    text-decoration: underline;
+    padding-left: 5px;
+}
+
+
+/* Q5. Styling for the fifth CSS assignment */
+.Q5 table{
+    border: 2px black solid;
+    border-collapse: collapse;
+}
+
+.table-1_head{
+    border: 1px black solid;
+    font-weight: bold;
+}
+
+.table-1_det{
+    border: 1px black solid;
+}
+
+
+
+/* Q6. Styling for the sixth CSS assignment */
+.Q6 table{
+    border: 1px green double;
+}
+
+.table-2_head{
+    border: 1px green double;
+    background-color: green;
+    color: white;
+}
+
+.table-2_det{
+    border: 1px green double;
+}
+
+
+
+/* Q7. Styling for the seventh CSS assignment */
+.Q7{
+    padding: 20px;
+    border: 2px black solid;
+}
+
+.Q7 div{
+    border: 3px red solid;
+    outline: 6px green dotted;
+    font-size: x-large;
+}
+
+
+/* Q8. Styling for the eighth CSS assignment */
+.Q8{
+    border: 2px black solid;
+}
+
+.box1{
+    background-color: #E0FFFF;
+    border: 7px black solid;
+    margin-left: 5px;
+    margin-top: 4px;
+    margin-right: 5px;
+    padding-left: 3px;
+}
+
+.box2{
+    background-color: #E0FFFF;
+    border: 3.5px black solid;
+    margin-left: 5px;
+    margin-top: 4px;
+    margin-right: 5px;
+    padding-left: 3px;
+}
+
+.box3{
+    background-color: #E0FFFF;
+    border: 1px black solid;
+    margin-left: 5px;
+    margin-top: 4px;
+    margin-right: 5px;
+    padding-left: 3px;
+}
+
+.box4{
+    background-color: #E0FFFF;
+    height: 40px;
+    border: 1px black solid;
+    margin-left: 5px;
+    margin-top: 4px;
+    margin-right: 5px;
+    padding-left: 3px;
+}
